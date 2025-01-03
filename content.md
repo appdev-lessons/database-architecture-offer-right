@@ -24,6 +24,11 @@ You can sign in with any of the following (all of their passwords are **password
 - eve@example.com
 - Or you can sign up for your own new account (it doesn't need to be a real email address).
 
+<aside>
+
+Recall, for all of our targets, you can find login credentials on the Secrets page linked from the top of the overview page for this course.
+</aside>
+
 Identify all of the screens in the app. On each screen:
 - What information can you see?
 - What actions can you take? Usually, this means: "what links and buttons can you click?"
@@ -37,6 +42,20 @@ Keeping the notes you took above in mind: design a data model that can support a
 Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
 
 I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
+
+---
+
+<div class="alert alert-info">
+
+If you do not see the Canvas submissions referenced below, or you are visiting this lesson directly without Canvas, then you can ignore the rest of this lesson.
+
+**Just submit "Yes" for the two questions below to get the points and move on.**
+</div>
 
 ### Offer Right: Spreadsheet
 
@@ -52,11 +71,8 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
 {: .choose_best #offer_right_spreadsheet title="Offer Right: Spreadhseet" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
-
 Return to Canvas and submit the URL in the assignment "Offer Right: Spreadsheet".
-
 An instructor will provide additional feedback on your submission there.
-
 </div>
 
 ### Offer Right: Entity Relationship Diagram (ERD)
@@ -71,14 +87,6 @@ Please create a entity relationship diagram (ERD) using [Ideas Tool](https://ide
 {: .choose_best #offer_right_erd title="Offer Right: Entity Relationship Diagram (ERD)" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
-
 Return to Canvas and submit a screenshot of your ERD in the assignment "Offer Right: Entity Relationship Diagram (ERD)".
-
 An instructor will provide additional feedback on your submission there.
-
 </div>
-
----
-
-- Approximately how long (in minutes) did this lesson take you to complete?
-{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
