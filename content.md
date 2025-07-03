@@ -16,7 +16,7 @@ Users can:
 - sellers can mark items as sold once satisfied
 - buyers and sellers coordinate meeting up on their own
 
-You can sign in with any of the following (all of their passwords are **password**):
+You can sign in with any of the following (all of their passwords are **appdev**, but if that doesn't work, try **password**):
 
 - alice@example.com
 - bob@example.com
